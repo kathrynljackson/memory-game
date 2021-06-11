@@ -1,5 +1,4 @@
 # Memory Card Game - JavaScript Tutorial
-This game was created following [Marina Ferreira's](https://github.com/marina-ferreira) tutorial from [Youtube: freeCodeCamp.org](https://www.youtube.com/watch?v=ZniVgo8U7ek&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V).
 
 ![gif of game in action](https://media.giphy.com/media/BRy7AZ6mlyKTH9hyEE/giphy.gif)
 
@@ -19,3 +18,7 @@ This game was created following [Marina Ferreira's](https://github.com/marina-fe
    - perspective
    - backface-visibility
    - transitions
+
+
+---
+<sub>This game was created following [Marina Ferreira's](https://github.com/marina-ferreira) tutorial from [Youtube: freeCodeCamp.org](https://www.youtube.com/watch?v=ZniVgo8U7ek&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V).</sub>
