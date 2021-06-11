@@ -1,4 +1,4 @@
-# Memory Card Game - JavaScript Tutorial
+# Memory Card Game
 
 ![gif of game in action](https://media.giphy.com/media/BRy7AZ6mlyKTH9hyEE/giphy.gif)
 
